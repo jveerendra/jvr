@@ -1,2 +1,8 @@
 hello
+<<<<<<< HEAD
 manja
+=======
+vijay child
+>>>>>>> newmaster
+
+hlg
